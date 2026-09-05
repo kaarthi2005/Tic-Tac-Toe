@@ -4,7 +4,7 @@
     "strict": true,
     "allowJs": true,
     "esModuleInterop": true,
-    "jsx": "react-native",
+    "jsx": "react-native", 
     "lib": [
       "DOM",
       "ESNext"
